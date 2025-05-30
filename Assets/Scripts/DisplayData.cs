@@ -13,22 +13,16 @@ public class DisplayData : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        Username.text = postData.username;
+        username2.text = Username.text;
+        postImage.sprite = postData.postImage;
+        likes.text = postData.likes;
+        Debug.Log("post one is updated");
     }
 
     // Update is called once per frame
     void Update()
     {
-        
-            Username.text = postData.username;
-            username2 = Username;
-            postImage.sprite = postData.postImage;
-            likes.text = postData.likes;
-            Debug.Log("post one is updated");
-        
-       
-
-
 
 
     }
