@@ -28,3 +28,7 @@ Post data is fetched by DisplayData.cs to populate UI.
 - Updating like/dislike count dynamically.
 - Playing a particle effect when liked.
 UI is scrollable, allowing the user to navigate posts.
+![Screenshot 2025-05-30 132413](https://github.com/user-attachments/assets/710275ff-b77e-4c58-a017-0f44ca274b81)
+![Screenshot 2025-05-30 132332](https://github.com/user-attachments/assets/587736ad-c3a4-4bbd-8368-f5c3462afaa6)
+
+
